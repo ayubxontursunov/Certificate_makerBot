@@ -9,12 +9,13 @@ A Python bot that automates the process of creating certificates. This bot takes
 To use the bot, follow these steps:
 
 1. Install Python (preferably, version >= 3.9)
-2. Clone this repository: `git clone https://github.com/ayubxontursunov/certificate_create_bot.git`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the bot by running main_bot.py
-5. Find `@Certificate_makerBot` on telegram and start the bot
-6. Send your input data one by one on telegram (e.g., name, course, mark, etc.)
-7. Get your certificate on telegram!
+2. Clone this repository: `git clone https://github.com/ayubxontursunov/certificate_create_bot.git
+   cd certificate_create_bot`
+4. Install the required dependencies: `pip install -r requirements.txt`
+5. Run the bot by running main_bot.py
+6. Find `@Certificate_makerBot` on telegram and start the bot
+7. Send your input data one by one on telegram (e.g., name, course, mark, etc.)
+8. Get your certificate on telegram!
 
 The bot will then generate certificates based on the provided data and save them in the specified output directory.
 
